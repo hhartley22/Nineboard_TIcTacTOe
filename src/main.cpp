@@ -9,10 +9,10 @@ from any other source.
 I hold a copy of this assignment that I can produce if the original
 is lost or damaged.
 *******************************/
-#include "NBGame.h"
-#include "HumanPlayer.h"
-#include "RandomPlayer.h"
-#include "MonteCarloPlayer.h"
+#include "../includes/NBGame.h"
+#include "../includes/HumanPlayer.h"
+#include "../includes/RandomPlayer.h"
+#include "../includes/MonteCarloPlayer.h"
 
 #include <ctime>
 #include <cstdlib>

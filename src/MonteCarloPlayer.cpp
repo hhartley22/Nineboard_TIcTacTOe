@@ -2,7 +2,7 @@
 // Created by Hayden on 6/9/20.
 //
 
-#include "MonteCarloPlayer.h"
+#include "../includes/MonteCarloPlayer.h"
 #include <iostream>
 
 using namespace std;

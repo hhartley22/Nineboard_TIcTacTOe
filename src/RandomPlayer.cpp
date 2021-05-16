@@ -2,7 +2,7 @@
 // Created by Hayden on 3/9/20.
 //
 
-#include "RandomPlayer.h"
+#include "../includes/RandomPlayer.h"
 
 #include <cstdlib>
 #include <iostream>

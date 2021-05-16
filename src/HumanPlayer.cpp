@@ -2,7 +2,7 @@
 // Created by Hayden on 3/9/20.
 //
 
-#include "HumanPlayer.h"
+#include "../includes/HumanPlayer.h"
 
 #include <iostream>
 

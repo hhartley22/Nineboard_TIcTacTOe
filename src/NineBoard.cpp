@@ -1,7 +1,7 @@
 //
 // Created by Hayden on 30/8/20.
 //
-#include "NineBoard.h"
+#include "../includes/NineBoard.h"
 
 #include <iostream>
 #include <cstdlib>

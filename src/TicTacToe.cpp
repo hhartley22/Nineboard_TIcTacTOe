@@ -1,7 +1,7 @@
 //
 // Created by Hayden on 17/8/20.
 //
-#include "TicTacToe.h"
+#include "../includes/TicTacToe.h"
 
 #include <iostream>
 

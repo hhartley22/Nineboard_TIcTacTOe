@@ -1,7 +1,7 @@
 //
 // Created by Hayden on 31/8/20.
 //
-#include "NBGame.h"
+#include "../includes/NBGame.h"
 
 #include <iostream>
 
